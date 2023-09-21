@@ -2,5 +2,7 @@
 - add lots of cheese
 - add falafels
 - add more cheese and cream
+- add french fries
+- add pepper and garlic
 - wrap it like a taco
 - enjoy :)
